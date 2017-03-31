@@ -38,7 +38,7 @@ Here is a high level overview of the important files in this project:
 
    * `features/cart.feature` - the gherkin language that describes scenarios (tests cases) for the sample cart code.
    * `features/FeatureContext.cs` - the SpecFlow file that is associated with the above `cart.feature` and executes tests.
-   * `src/Cart.php` - the sample cart class
+   * `src/Cart.cs` - the sample cart class
 
 You may need to add additional files or classes to complete the assignment.
 
